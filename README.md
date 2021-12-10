@@ -10,4 +10,5 @@
 ### Le concept de la télévision a été inventé par l'allemand Carl Wilhelm Siemens en 1877 quand il a voulu créer un « oeil électrique artificiel »  à la suite de la découverte des propriétés photosensibles du sélénium. En 1921, l'ingénieur francais Édouard Belin invente le bélinographe.
 ## Le bélinographe
 ![belinographe](https://user-images.githubusercontent.com/94695753/145558291-03eb3673-0bc0-4291-937e-0874832cc636.PNG)
-### Le bélinographe est un appareil qui permet la transmission à distance d'images fixes, par circuit électronique ou par radio.
+### Le bélinographe est un appareil qui permet la transmission à distance d'images fixes, par circuit électronique ou par radio. Il servait surtout à transmettre des photographies. Il suffit de déposer une photo ou un document sur le cylindre. Il sera analysé ligne par ligne, par une cellule photoélectrique qui se déplace sur la génératrice du tambour en rotation. Les niveaux de gris sont transformés en fréquences (aiguë pour le blanc et grave pour le noir) et transmis en ligne.
+
