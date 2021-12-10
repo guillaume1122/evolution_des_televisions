@@ -7,6 +7,7 @@
 
 ## L'histoire de l'invention de la télévision
 ![premieretelevisionelectronique](https://user-images.githubusercontent.com/94695753/145555156-9a6364aa-55c6-473f-a672-edf2637550a7.PNG)
-### Le concept de la télévision a été inventé par l'allemand Carl Wilhelm Siemens en 1877 quand il a voulu créer un « oeil électrique artificiel »  à la suite de la découverte des propriétés photosensibles du sélénium. La télévision à disque sera inventée en 1884 par l'inventeur allemand Paul Nipkow. En 1921, l'ingénieur francais Édouard Belin invente le bélinographe.
-# Le bélinographe
+### Le concept de la télévision a été inventé par l'allemand Carl Wilhelm Siemens en 1877 quand il a voulu créer un « oeil électrique artificiel »  à la suite de la découverte des propriétés photosensibles du sélénium. En 1921, l'ingénieur francais Édouard Belin invente le bélinographe.
+## Le bélinographe
 ![belinographe](https://user-images.githubusercontent.com/94695753/145558291-03eb3673-0bc0-4291-937e-0874832cc636.PNG)
+### Le bélinographe est un appareil qui permet la transmission à distance d'images fixes, par circuit électronique ou par radio.
