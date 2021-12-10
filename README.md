@@ -14,6 +14,6 @@
 ## La télévision mécanique
 ![televisionmecanique](https://user-images.githubusercontent.com/94695753/145560186-d5375a61-3823-42e0-a129-846fd8534ebb.PNG)
 ### La télévision mécanique est un système de diffusion d'images télévisées inventé en 1926 par un ingénieur écossais nommé John Logie Baird. L'appareil analyse une scène grâce à un instrument mécanique à balayage (un disque tournant perforé ou un miroir en rotation). L'information se transforme en signal vidéo. À l'autre extrémité de celui-ci, un appareil similaire décode le signal et le transforme en signal lumineux.
-## La télévision en couleur.
+## La télévision en couleur
 ![premieretelevisionencouleur](https://user-images.githubusercontent.com/94695753/145561378-91c55a81-e169-4d89-aab6-9cf204f027e9.PNG)
 ### C'est en 1928 que la première télévision en couleur a été montrée au public. Elle a été créée par un ingénieur arménien nommé Hovannes Adamian.
