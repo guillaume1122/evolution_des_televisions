@@ -11,4 +11,6 @@
 ## Le bélinographe
 ![belinographe](https://user-images.githubusercontent.com/94695753/145558291-03eb3673-0bc0-4291-937e-0874832cc636.PNG)
 ### Le bélinographe est un appareil qui permet la transmission à distance d'images fixes, par circuit électronique ou par radio. Il servait surtout à transmettre des photographies. Il suffit de déposer une photo ou un document sur le cylindre. Il sera analysé ligne par ligne, par une cellule photoélectrique qui se déplace sur la génératrice du tambour en rotation. Les niveaux de gris sont transformés en fréquences (aiguë pour le blanc et grave pour le noir) et transmis en ligne.
+## La télévision mécanique
 
+###
