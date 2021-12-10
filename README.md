@@ -22,8 +22,8 @@
 ![televisionecranplasma](https://user-images.githubusercontent.com/94695753/145563635-52c073c4-ab54-4a2c-9773-896647bfa4b9.PNG)
 ### La télévision à écran plasma a été inventée par Donald L. Bitzer et H. Gene Slottow aux États-Unis en 1964. Les écrans à plasma utilisent de l’électricité pour illuminer un gaz. Depuis ce temps, plusieurs types d'écrans de télévision ont été créés comme ceux du type rear-projection, LCD (Liquid-crystal-display) ou FPD (flat-panel display).
 ## télévision rear-projection
-
-
+![televisionrearprojection](https://user-images.githubusercontent.com/94695753/145566035-fe257aed-89f8-433b-a078-152513f84806.PNG)
+## télévision LCD avec flat-panel display.
 
 
 
