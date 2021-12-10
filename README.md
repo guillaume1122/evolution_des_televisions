@@ -30,3 +30,4 @@
 # Les télévisions d'aujourd'hui (2021-2022)
 ## La télévision OLED
 ### La télévision OLED est une nouvelle technologie d'écran. La compagnie Samsung va arrêter de produire des écrans LCD en 2021-2022. Les nouvelles télévisions vont être équipées de la technologie OLED et QD. QD est une toute nouvelle technologie. Les quantom dots ou points quantiques émettent de la lumière par eux-mêmes et peuvent implémenter des couleurs variées et précises à chaque niveau de lumière et d'obscurité.
+![qdtelevision](https://user-images.githubusercontent.com/94695753/145567625-e188e93f-10e3-4ad0-b534-320aa1f3d8cc.PNG)
