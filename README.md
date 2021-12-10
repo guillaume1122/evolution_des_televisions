@@ -14,3 +14,6 @@
 ## La télévision mécanique
 ![televisionmecanique](https://user-images.githubusercontent.com/94695753/145560186-d5375a61-3823-42e0-a129-846fd8534ebb.PNG)
 ### La télévision mécanique est un système de diffusion d'images télévisées inventé en 1926 par un ingénieur écossais nommé John Logie Baird. L'appareil analyse une scène grâce à un instrument mécanique à balayage (un disque tournant perforé ou un miroir en rotation). L'information se transforme en signal vidéo. À l'autre extrémité de celui-ci, un appareil similaire décode le signal et le transforme en signal lumineux.
+## La télévision en couleur.
+
+### C'est en 1928
