@@ -7,4 +7,4 @@
 
 # L'histoire de l'invention de la télévision
 ![premieretelevisionelectronique](https://user-images.githubusercontent.com/94695753/145555156-9a6364aa-55c6-473f-a672-edf2637550a7.PNG)
-## Le concept de la télévision a été inventé par Carl Wilhelm Siemens en 1877 quand il a voulu créer un « oeil électrique artificiel »
+## Le concept de la télévision a été inventé par Carl Wilhelm Siemens en 1877 quand il a voulu créer un « oeil électrique artificiel »  à la suite de la découverte des propriétés photosensibles du sélénium.
