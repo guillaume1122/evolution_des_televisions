@@ -4,3 +4,6 @@
 
 # Ce que c'est?
 ## La télévision est un appareil doté d'un écran qui affiche des images et projette du son et qui peut être connecté à des satellites grâce à une antenne pour pouvoir afficher des postes de télévision qui viennent de loin. Des nouveaux modèles de télévisions viennent avec une antenne réglable intégrée.
+
+# L'invention de la télévision
+## 
